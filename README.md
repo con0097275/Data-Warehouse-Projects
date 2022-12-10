@@ -14,6 +14,7 @@ This Project creates many Reports to A ecommerce company using PowerBI.
 ![image](https://user-images.githubusercontent.com/85168496/206843928-99313826-148e-4806-aad5-1f6b036355f7.png)
 ![image](https://user-images.githubusercontent.com/85168496/206843941-500cf06b-1024-4ef6-8eb0-ecdc4480b7ea.png)
 ![image](https://user-images.githubusercontent.com/85168496/206843951-5865af09-b35c-4d17-97b3-1a8c8607ca87.png)
+![image](https://user-images.githubusercontent.com/85168496/206844053-bfd86519-0c51-4aa5-81e3-8b4424dd51d2.png)
 ![image](https://user-images.githubusercontent.com/85168496/206843959-5970f0c4-5e61-44ae-ba7e-20114606cc8b.png)
 ![image](https://user-images.githubusercontent.com/85168496/206843966-c4fe2948-3680-4cb8-a849-6466b519e943.png)
 ![image](https://user-images.githubusercontent.com/85168496/206843973-9b991315-b868-4bd4-963c-c46437fd3b27.png)
