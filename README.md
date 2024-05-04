@@ -11,7 +11,9 @@ This Project creates many Reports to A ecommerce company using PowerBI.
 ![image](https://user-images.githubusercontent.com/85168496/206843374-2ead9fea-0471-4623-a616-e428a1b2a810.png)
 
 ## ECOMMERCE PROJECT:
+### Warehouse Design:
 ![image2](warehouse_restaurant.png)
+### Analyst:
 ![image2](1.png)
 ![image](https://user-images.githubusercontent.com/85168496/206843928-99313826-148e-4806-aad5-1f6b036355f7.png)
 <!-- ![image](https://user-images.githubusercontent.com/85168496/206843941-500cf06b-1024-4ef6-8eb0-ecdc4480b7ea.png) -->
